@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950897180741",
+    "firebase_url": "https://cadastroapp-f4bba.firebaseio.com",
+    "project_id": "cadastroapp-f4bba",
+    "storage_bucket": "cadastroapp-f4bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950897180741:android:a9c24f6643f5a0909ae32c",
+        "android_client_info": {
+          "package_name": "com.example.cadastroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950897180741-9ufu95ucvemfa0b3tv5gd6vkug37154t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cadastroapp",
+            "certificate_hash": "0f1d3a2ef964b8fd283407c6f28419b9daa71f27"
+          }
+        },
+        {
+          "client_id": "950897180741-ann7rm662ppp9e3b9kb7bd1qe97c4qk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGfJX1tPQE2c6xYipg0k9KW-slFDGtDrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950897180741-ann7rm662ppp9e3b9kb7bd1qe97c4qk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

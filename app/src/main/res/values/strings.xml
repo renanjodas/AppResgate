@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Voluntarie</string>
+    <string name="titulo_main">Login</string>
+    <string name="main_usuario">Usuário</string>
+    <string name="main_senha">Senha</string>
+    <string name="main_btnLogin">Login</string>
+    <string name="main_footer">Não tenho Cadastro</string>
+    <string name="cadastro_titulo">Cadastro</string>
+    <string name="cadastro_nome">Nome</string>
+    <string name="cadastro_tel">Telefone</string>
+    <string name="cadastro_email">E-mail</string>
+    <string name="cadastro_senha">Não tenho Cadastro</string>
+    <string name="cadastro_socorrista">Socorrista</string>
+    <string name="cadastro_usuario">Usuário</string>
+    <string name="cadastro_btnCadastro">Cadastrar</string>
+    <string name="title_activity_usuario_maps">Map</string>
+    <string name="title_activity_basic">BasicActivity</string>
+</resources>
